@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amitangsuad01
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Web Devlopment.
-- 💞️ I’m looking to collaborate on nothing as of now
+- 🌱 I’m currently learning Node.Js and React.
+- 💞️ I’m looking to collaborate web development projects
 - 📫 How to reach me - email: amitangsuad01@gmail.com
 
 <!---
